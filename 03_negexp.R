@@ -1,4 +1,4 @@
-##' Functions to fit negative exponential model using MLE
+##' Functions to fit negative exponential model using MLE 
 ##' 
 ##' 1) Fit SIMPLE negative exponential model using maximum likelihood estimation
 ##' 
