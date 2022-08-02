@@ -41,7 +41,7 @@ pred.negexpS <- function(theta, x){
     theta[4] * sin(2*pi*x + (theta[5] + pi/6*(3 - 1)))
 }
 
-##' Function (b) to fit the full model and minimize the -ln.likelihood.
+##' Function (b) to fit the full model and minimize the -ln.likelihood
 ##'
 ##' @param dat  dataframe of NDVI, age
 ##' @param par  vector of initial parameter guesstimates (on order of theta)
