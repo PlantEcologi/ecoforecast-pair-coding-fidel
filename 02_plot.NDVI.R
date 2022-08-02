@@ -1,6 +1,6 @@
 ##' Plot NDVI data
 ##'
-##' @param dat  dataframe that contains columns "age" and "NDVI"
+##' @param dat  dataframe that contains columns "age" and "NDVI"l
 ##' @param fit  a fitted model to overlay on the data if present
 ##' @param ...  additional graphing parameters
 ##'
